@@ -46,3 +46,5 @@ redis_data/
 
 # k6 outputs
 k6-results/
+
+commands.txt
