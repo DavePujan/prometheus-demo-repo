@@ -137,4 +137,4 @@ Use full executable path on Windows:
 
 ## License
 
-ISC (inherits project package license setting).
+ISC
