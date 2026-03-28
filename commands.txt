@@ -1,0 +1,6 @@
+node server.js
+
+k6 test:
+npm run k6:attack
+or
+$env:QUICK='true'; $env:BASE_URL='http://localhost:3000'; & "C:\Program Files\k6\k6.exe" run .\load-tests\attack-test.js --no-usage-report
